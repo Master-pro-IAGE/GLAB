@@ -1,0 +1,11 @@
+.displayMembersCardsContainer{
+
+    background-color: rgba(0, 0, 0, 0.27);
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(15rem,15rem));
+    gap: 1rem;
+    padding: 1rem;
+    place-items: center;
+    justify-content: center;
+    align-items: center;
+}
